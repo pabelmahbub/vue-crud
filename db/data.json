@@ -1,49 +1,5 @@
 {
   "students": [
-    {
-      "name": "Rahman Muhammad Mahbubur",
-      "course": "nnn",
-      "email": "pabelmahbub@gmail.com",
-      "phone": "+818023853993",
-      "id": 5,
-      "address": "Tokyo",
-      "profession": "teacher"
-    },
-    {
-      "name": "らはまんむはっまど まはぶぶる",
-      "course": "dd",
-      "email": "d",
-      "phone": "d",
-      "address": "Itabashi ku,Shimura Sakashita 2-7-3, Minguru AP Sakashita 1 ban kan 3D, Tokyo",
-      "profession": "d",
-      "id": 6
-    },
-    {
-      "name": "Rahman Muhammad Mahbubur",
-      "course": "s",
-      "email": "pabelmahbub@gmail.com",
-      "phone": "+818023853993",
-      "address": "Itabashi ku,Shimura Sakashita 2-7-3",
-      "profession": "s",
-      "id": 7
-    },
-    {
-      "name": "らはまんむはっまど まはぶぶる",
-      "course": "a",
-      "email": "z",
-      "phone": "az",
-      "address": "Itabashi ku,Shimura Sakashita 2-7-3, Minguru AP Sakashita 1 ban kan 3D, Tokyo",
-      "profession": "aa",
-      "id": 8
-    },
-    {
-      "name": "a",
-      "course": "a",
-      "email": "z",
-      "phone": "a",
-      "address": "a",
-      "profession": "a",
-      "id": 9
-    }
+    
   ]
 }
