@@ -1,9 +1,9 @@
 <template>
-    <div class="container mt-4" v-if="students.length">
+    <div class="container mt-4">
      <div class="card">
 
       <div class="card-header">
-        <h4>Students 
+        <h4>Students List
           <RouterLink to="/student/create" class="btn btn-primary float-end">Add Student</RouterLink>
         </h4>
       </div>
@@ -11,7 +11,7 @@
       <div class="card-body">
         <table class="table table-bordered">
 
-          <thead>
+          <thead  v-if="students.length">
             <tr>
               <th>ID</th>
               <th>name</th>
@@ -41,14 +41,16 @@
             </tr>
           </tbody>
 
+          <h5 v-if="!students.length" class="text-center my-3">Loading....</h5>
+         
+
         </table>
       </div>
      </div>
     </div>
 
 
-    <h5 v-else class="text-center my-3">Loading....</h5>
-
+    
 
 
 </template>

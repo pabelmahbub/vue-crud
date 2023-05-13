@@ -1,5 +1,31 @@
 {
   "students": [
-    
+    {
+      "name": "Mr. Helal",
+      "course": "Mathematics",
+      "email": "helal34@gmail.com",
+      "phone": "89076543",
+      "address": "Dhaka",
+      "profession": "Teacher",
+      "id": 0
+    },
+    {
+      "name": "Mr.Rabi",
+      "course": "English",
+      "email": "rabi87@gmail.com",
+      "phone": "5689348088",
+      "address": "Chittagong",
+      "profession": "Student",
+      "id": 1
+    },
+    {
+      "name": "Lovely",
+      "course": "Arabic",
+      "email": "lovely76@gmail.com",
+      "phone": "7878780377",
+      "address": "Noakhali",
+      "profession": "Teacher",
+      "id": 2
+    }
   ]
 }

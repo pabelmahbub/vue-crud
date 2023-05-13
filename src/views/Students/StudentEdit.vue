@@ -8,6 +8,10 @@
         <input type="text" v-model="email" required/>
         <label>Phone</label>
         <input type="text" v-model="phone" required/>
+        <label>Address</label>
+        <input type="text" v-model="address" required/>
+        <label>Profession</label>
+        <input type="text" v-model="profession" required/>
         
         <button>Edit Student</button>
     </form>
