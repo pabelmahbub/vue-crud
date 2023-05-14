@@ -8,6 +8,11 @@ How to start a project.
 3. npm i
 4. npm run dev
 ```
+DB json start the db:
+```
+install: npm i json-server      
+in terminal: npx json-server --watch data/db.json
+```
 Installing Bootstrap:
 ```
 1. npm i bootstrap@5.3.0-alpha1
